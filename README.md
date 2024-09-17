@@ -1,17 +1,21 @@
 
 
-<h1>🌟 Text-to-Speech Converter 🌟</h1>
+# 🌟 Text-to-Speech Converter 🌟
   
-<p>Welcome to the Text-to-Speech Converter! 🚀 This interactive web application brings your text to life with voice synthesis, powered by the Web Speech API. Whether you’re looking to hear your words spoken out loud or test various voice options, this tool provides an intuitive and stylish experience.</p>
+Welcome to the **Text-to-Speech Converter**! 🚀 This interactive web application brings your text to life with voice synthesis, powered by the Web Speech API. Whether you’re looking to hear your words spoken out loud or test various voice options, this tool provides an intuitive and stylish experience.
 
-📸 Preview
-Application Screenshot
+## 📸 Preview
 
-<img src="preview.png" alt="Application Screenshot" width="600" height="auto"> <!-- Adjust width and height as needed -->
+### **Application Screenshot**
 
-Video Demo
+<img src="preview.PNG" alt="" width="600" height="auto">
+
+### **Video Demo**
+
 Check out the demo video to see the Text-to-Speech Converter in action!
-[![Watch the video](images/video-thumbnail.png)](https://www.youtube.com/watch?v=your_video_id) <!-- Replace with a thumbnail image and YouTube video URL -->
+
+[![Watch the video](images/video-thumbnail.png)](https://www.youtube.com/watch?v=your_video_id)
+
 
 
 ## 🚀 Features
@@ -33,10 +37,10 @@ Check out the demo video to see the Text-to-Speech Converter in action!
 - **JavaScript**: Implementing speech synthesis using the Web Speech API.
 
 
-💡 Code Highlights
+## 💡 Code Highlights
 Here's a glimpse of the core functionality in JavaScript:
 
-<img src="code.png" alt="Application Screenshot" width="600" height="auto">
+<img src="code.png" alt="" width="600" height="auto">
 
 📬 Contact
 Feel free to reach out for questions or feedback: touhidarahimu30@gmail.com
