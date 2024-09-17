@@ -1,0 +1,109 @@
+/* Reset default margins, paddings, and box-sizing for all elements */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body {
+    background-image: url('images/background.PNG');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Optional: for a fixed background effect */
+}
+
+
+/* Styling for the hero section */
+.hero {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Centering flex items */
+    flex-direction: column;
+    color: white; /* Improved text visibility */
+}
+
+/* Styling for the main heading */
+.hero h1 {
+    font-size: 35px;
+    font-weight: 600;
+    margin-right: 50px;
+    margin-bottom:10px ;
+}
+
+.hero h1 span {
+    color: aquamarine; /* Highlight color for text */
+}
+
+/* Styling for the textarea */
+textarea {
+    width: 520px;
+    height: 270px;
+    background: #E7E8D8;
+    font-size: 15px;
+    border: 0;
+    outline: 0;
+    padding: 10px; /* Added padding for better text positioning */
+    border-radius: 10px;
+    resize: none; /* Disabled resizing */
+    margin-bottom: 30px; /* Space below textarea */
+    margin-right:60px ;
+}
+
+textarea::placeholder {
+    font-size: 16px;
+    color: #522258;
+}
+
+/* Styling for the row container */
+.row {
+    width: 490px;
+    display: flex;
+    align-items: center;
+    gap: 20px; /* Space between elements */
+    margin-right: 80px;
+    margin-top: 15px;
+}
+
+/* Styling for button */
+button {
+    background: #ff2963;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 30px;
+    border-radius: 35px;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    transition: background 0.3s ease; /* Smooth background color transition */
+}
+
+button:hover {
+    background: #e02d54; /* Slightly darker background on hover */
+}
+
+button img {
+    width: 16px;
+    margin-right: 10px;
+}
+
+/* Styling for select element */
+select {
+    flex: 1;
+    color: #403d84;
+    height: 50px;
+    padding: 0 20px;
+    outline: 0;
+    border: 0;
+    border-radius: 35px;
+    appearance: none;
+    background-image: url(images/drop.PNG); /* Dropdown icon */
+    background-repeat: no-repeat;
+    background-size: 15px;
+    background-position-x: calc(100% - 20px);
+    background-position-y: 50%; /* Center the icon vertically */
+}
