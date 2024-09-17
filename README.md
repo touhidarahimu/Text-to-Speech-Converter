@@ -6,7 +6,8 @@
 
 📸 Preview
 Application Screenshot
-![Application Screenshot](preview.PNG)
+
+<img src="images/screenshot.png" alt="Application Screenshot" width="600" height="auto"> <!-- Adjust width and height as needed -->
 
 Video Demo
 Check out the demo video to see the Text-to-Speech Converter in action!
@@ -32,7 +33,8 @@ Check out the demo video to see the Text-to-Speech Converter in action!
 <p></p>
 💡 Code Highlights
 Here's a glimpse of the core functionality in JavaScript:
-<img src="code.png" alt="">
+
+<img src="code.png" alt="Application Screenshot" width="600" height="auto">
 
 📬 Contact
 Feel free to reach out for questions or feedback: touhidarahimu30@gmail.com
