@@ -1,11 +1,12 @@
 
 
-🌟 Text-to-Speech Converter 🌟
-Welcome to the Text-to-Speech Converter! 🚀 This interactive web application brings your text to life with voice synthesis, powered by the Web Speech API. Whether you’re looking to hear your words spoken out loud or test various voice options, this tool provides an intuitive and stylish experience.
+<h1>🌟 Text-to-Speech Converter 🌟</h1>
+  
+<p>Welcome to the Text-to-Speech Converter! 🚀 This interactive web application brings your text to life with voice synthesis, powered by the Web Speech API. Whether you’re looking to hear your words spoken out loud or test various voice options, this tool provides an intuitive and stylish experience.</p>
 
 📸 Preview
 Application Screenshot
-![Application Screenshot](images/screenshot.png)
+![Application Screenshot](preview.PNG)
 
 Video Demo
 Check out the demo video to see the Text-to-Speech Converter in action!
@@ -29,8 +30,7 @@ Check out the demo video to see the Text-to-Speech Converter in action!
 
 💡 Code Highlights
 Here's a glimpse of the core functionality in JavaScript:
-
-
+(code.png)
 
 
 📬 Contact
