@@ -8,7 +8,7 @@ Welcome to the **Text-to-Speech Converter**! 🚀 This interactive web applicati
 
 ### **Application Screenshot**
 
-<img src="preview.PNG" alt="" width="600" height="auto">
+<img src="preview.PNG" alt="" width="800" height="auto">
 
 ### **Video Demo**
 
