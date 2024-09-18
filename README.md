@@ -4,9 +4,7 @@
   
 Welcome to the **Text-to-Speech Converter**! 🚀 This interactive web application brings your text to life with voice synthesis, powered by the Web Speech API. Whether you’re looking to hear your words spoken out loud or test various voice options, this tool provides an intuitive and stylish experience.
 
-## 📸 Preview | Live Demo[here](https://lustrous-crepe-b7d565.netlify.app/).
-
-### **Application Screenshot**
+## 📸 Preview | [Live Demo](https://lustrous-crepe-b7d565.netlify.app/).
 
 <img src="preview.PNG" alt="" >
 
