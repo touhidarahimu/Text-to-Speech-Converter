@@ -1,15 +1,13 @@
-
-
 # 🌟 Text-to-Speech Converter 🌟
-  
+
 Welcome to the **Text-to-Speech Converter**! 🚀 This interactive web application brings your text to life with voice synthesis, powered by the Web Speech API. Whether you’re looking to hear your words spoken out loud or test various voice options, this tool provides an intuitive and stylish experience.
 
-## 📸 Preview | [Live Demo](https://lustrous-crepe-b7d565.netlify.app/) | [📹 Video Demo](https://www.youtube.com/watch?v=V4eRZE3_jm0)
-
-<img src="preview.PNG" alt="" >
+## 📸 Preview | [Live Demo](https://lustrous-crepe-b7d565.netlify.app/) 
 
 
 
+> Click on the image to watch the video demo on YouTube!
+> [![Watch the Video](https://img.youtube.com/vi/V4eRZE3_jm0/maxresdefault.jpg)](https://www.youtube.com/watch?v=V4eRZE3_jm0)
 
 ## 🚀 Features
 
@@ -29,12 +27,12 @@ Welcome to the **Text-to-Speech Converter**! 🚀 This interactive web applicati
 - **CSS3**: Styling the application with a modern, responsive design.
 - **JavaScript**: Implementing speech synthesis using the Web Speech API.
 
-
 ## 💡 Code Highlights
+
 Here's a glimpse of the core functionality in JavaScript:
 
-<img src="code.png" alt="" width="600" height="auto">
+![Code Snippet](code.png)
 
-📬 Contact
-Feel free to reach out for questions or feedback: touhidarahimu30@gmail.com
+## 📬 Contact
 
+Feel free to reach out for questions or feedback: [touhidarahimu30@gmail.com](mailto:touhidarahimu30@gmail.com)
