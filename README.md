@@ -1,15 +1,15 @@
-# 🌟 Text-to-Speech Converter 🌟
+#  Text-to-Speech Converter 
 
-Welcome to the **Text-to-Speech Converter**! 🚀 This interactive web application brings your text to life with voice synthesis, powered by the Web Speech API. Whether you’re looking to hear your words spoken out loud or test various voice options, this tool provides an intuitive and stylish experience.
+Welcome to the **Text-to-Speech Converter**!  This interactive web application brings your text to life with voice synthesis, powered by the Web Speech API. Whether you’re looking to hear your words spoken out loud or test various voice options, this tool provides an intuitive and stylish experience.
 
-## 📸 Preview | [Live Demo](https://lustrous-crepe-b7d565.netlify.app/) 
+## Preview | [Live Demo](https://lustrous-crepe-b7d565.netlify.app/) 
 
 
 
 > Click on the image to watch the video demo on YouTube!
 > [![Watch the Video](https://img.youtube.com/vi/V4eRZE3_jm0/maxresdefault.jpg)](https://www.youtube.com/watch?v=V4eRZE3_jm0)
 
-## 🚀 Features
+##  Features
 
 - **Instant Text-to-Speech Conversion**: Simply enter your text and click "Listen" to hear it spoken aloud.
 - **Voice Customization**: Select from a variety of voices to match your preferred accent or style.
